@@ -17,7 +17,7 @@
     <script type="text/javascript">
       $(document).ready(function() {
         $("#getWeatherForcast").click(function() {
-          debugger;
+          
 
           var city = $("#city").val();
           var key = "1eca0b0e2410dec83d833cdc002bbf91";
